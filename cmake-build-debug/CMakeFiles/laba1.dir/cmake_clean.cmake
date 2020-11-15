@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/laba1.dir/Paper_sheet.cpp.obj"
-  "CMakeFiles/laba1.dir/main.cpp.obj"
-  "CMakeFiles/laba1.dir/stack.cpp.obj"
-  "laba1.exe"
-  "laba1.exe.manifest"
-  "laba1.lib"
+  "CMakeFiles/laba1.dir/Paper_sheet.cpp.o"
+  "CMakeFiles/laba1.dir/main.cpp.o"
+  "CMakeFiles/laba1.dir/stack_paper.cpp.o"
+  "laba1"
   "laba1.pdb"
 )
 
