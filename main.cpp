@@ -1,5 +1,3 @@
-#include <iostream>
-#include "Paper_sheet.h"
 #include "Test_paper_class.h"
 
 int main() {

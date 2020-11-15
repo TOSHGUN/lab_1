@@ -1,4 +1,3 @@
-
 #include "Paper_sheet.h"
 
 Paper_sheet::Paper_sheet(): // конструктор по умолчанию
@@ -8,6 +7,7 @@ Paper_sheet::Paper_sheet(): // конструктор по умолчанию
     x(0),
     y(0)
 {}
+
 Paper_sheet::Paper_sheet(float width_, float length_, float height_, float x_, float y_): // конструктор инициализации
         x(x_),
         y(y_)
@@ -23,6 +23,7 @@ Paper_sheet::Paper_sheet(float width_, float length_, float height_, float x_, f
     else height = height_;
 
 }
+
 Paper_sheet::Paper_sheet(const Paper_sheet& other): // конструктор копирования
         width(other.width),
         length(other.length),

@@ -11,7 +11,7 @@ public:
     float Get_width() const {
         return width;
     };
-    float Get_lendth() const {
+    float Get_length() const {
         return length;
     };
     float Get_height() const{
