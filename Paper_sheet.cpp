@@ -31,3 +31,12 @@ Paper_sheet::Paper_sheet(const Paper_sheet& other): // конструктор к
         x(other.x),
         y(other.y)
 {}
+
+bool Paper_sheet::operator==(const Paper_sheet &other) const {
+    return length == other.length && height == other.height &&
+    width == other.width && x == other.x && y == other.y;
+}
+
+void Paper_sheet::Clear() {
+    width = 0, length = 0, height = 0, x = 0, y = 0;
+}

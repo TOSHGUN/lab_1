@@ -23,6 +23,8 @@ public:
     float Get_y() const{
         return y;
     }
+    bool operator==(const Paper_sheet &other) const;
+    void Clear();
 private:
     float width, length, height, x, y;
 };

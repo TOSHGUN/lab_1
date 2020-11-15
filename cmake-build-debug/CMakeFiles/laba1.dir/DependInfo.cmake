@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/worker/Documents/GitHub/lab_1/Paper_sheet.cpp" "C:/Users/worker/Documents/GitHub/lab_1/cmake-build-debug/CMakeFiles/laba1.dir/Paper_sheet.cpp.obj"
-  "C:/Users/worker/Documents/GitHub/lab_1/main.cpp" "C:/Users/worker/Documents/GitHub/lab_1/cmake-build-debug/CMakeFiles/laba1.dir/main.cpp.obj"
-  "C:/Users/worker/Documents/GitHub/lab_1/stack.cpp" "C:/Users/worker/Documents/GitHub/lab_1/cmake-build-debug/CMakeFiles/laba1.dir/stack.cpp.obj"
+  "/home/ksusonic/CLionProjects/lab_1/Paper_sheet.cpp" "/home/ksusonic/CLionProjects/lab_1/cmake-build-debug/CMakeFiles/laba1.dir/Paper_sheet.cpp.o"
+  "/home/ksusonic/CLionProjects/lab_1/main.cpp" "/home/ksusonic/CLionProjects/lab_1/cmake-build-debug/CMakeFiles/laba1.dir/main.cpp.o"
+  "/home/ksusonic/CLionProjects/lab_1/stack_paper.cpp" "/home/ksusonic/CLionProjects/lab_1/cmake-build-debug/CMakeFiles/laba1.dir/stack_paper.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
